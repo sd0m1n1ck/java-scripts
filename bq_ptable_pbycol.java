@@ -1,8 +1,3 @@
-//*** This code will create a dataset my_new_dataset
-//*** It will create a table, my_table_id with 2 columns StringField and TSField
-//*** partitioned by TSField 
-
-
 import com.google.cloud.bigquery.BigQuery;
 import com.google.cloud.bigquery.BigQueryOptions;
 import com.google.cloud.bigquery.Dataset;
